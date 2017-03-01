@@ -1,39 +1,37 @@
-Escape Velocity by HTML5 UP
+Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
-layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
-talented photographer Felicia Simion. If you like photography or just enjoy being blown away by
-awesome stuff, check out her portfolio for more stunning images:
+Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
+on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
+built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
+can be endlessly duplicated and tweaked into whatever you need to tell your story --
+without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
+demo, and index.html for the actual template. Enjoy!
 
-http://ineedchemicalx.deviantart.com/
+Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
+as neither are needed in production :)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = my other side project -- carrd.co)
+(** = not included)
 
 AJ
 aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
 
 	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
+		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
